@@ -1,4 +1,20 @@
-I made this account by first signing up then verifying my account to let them know it was me then created a username and password.
+# A Simple Guide to Using GitHub
+Welcome! This guide will walk you through the basics of using GitHub to manage your project. Whether you're new to Git or just need a quick refresher, you’re in the right place. Let’s get started!
+
+What is GitHub?
+GitHub is a platform that lets you store and manage your code online using Git. It’s like a cloud-based version control system where you can track changes, collaborate with others, and share your projects. It’s essential for working with other people and keeping your code organized.
+
+Step 1: Set Up Your GitHub Account
+Go to GitHub and sign up for an account.
+After signing up, you’ll be able to create repositories to store your code. Think of a repository like a folder for your project.
+Step 2: Create a Repository
+A repository is where your project lives on GitHub. Let’s create one:
+
+Go to your GitHub profile.
+Click the New button to create a new repository.
+Name your repository (e.g., my-awesome-project).
+Choose whether to make it public (anyone can see it) or private (only you or invited collaborators can see it).
+Click Create repository.
 
 
 # A02
